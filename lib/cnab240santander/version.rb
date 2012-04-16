@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Cnab240santander
   module Version
     MAJOR = 1

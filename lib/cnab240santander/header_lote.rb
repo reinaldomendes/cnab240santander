@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Cnab240santander
   class HeaderLote < Cnab240santander::Base
     def self.processar(linha)

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "mocha"
 require 'active_support'
 require 'cnab240santander'
